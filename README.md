@@ -11,6 +11,7 @@ one-line tap shorthand doesn't apply here. Install with:
 
 ```bash
 brew tap prajnyavan/pj-cli https://github.com/prajnyavan/pj-cli
+brew trust prajnyavan/pj-cli   # modern Homebrew requires trusting third-party taps explicitly
 brew install pj
 ```
 
